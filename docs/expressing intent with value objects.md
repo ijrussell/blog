@@ -63,3 +63,5 @@ In summary, value objects do not have an identity so must be compared using IEqu
 There is nothing complicated about any of the changes that I have made but I think that they make the code more readable by better expressing the intent of the code. At the end of the day, it is up to you to decide if the extra work involved in making these changes is worth the potential gains in expressing the intent of your code. 
 
 If you want to learn more about Value Objects, I recommend that you read [Hands-On Domain Driven Design with .NET](https://www.packtpub.com/application-development/hands-domain-driven-design-net "Hands-On Domain Driven Design with .NET") by Alexey Zimarev.
+
+This blog post is part of the [C# Advent Calendar 2018](https://crosscuttingconcerns.com/The-Second-Annual-C-Advent)
